@@ -2,13 +2,13 @@
 
 ## Create course ##
 * Login to your Moodle as admin
-* Website Administration > Kurse > Kurs wiederherstellen
-* Sicherungsdatei importieren (S:\Austausch\_mooin\TPL\TemplateNewMOOC.mbz): per Drag&Drop hochladen und auf Button „Wiederherstellen“ klicken
-* Weiter
-* Als neuen Kurs wiederherstellen (Kategorie wählen), Weiter
-* Weiter
-* Kursname und Kurzer Kursname ändern, Weiter
-* Wiederherstellung ausführen, Weiter
+* Site administration > Courses > Restore course
+* Import a backup file (https://github.com/ild-thl/moodle-moocformat/blob/main/TemplateNewMOOC.mbz): use drag & drop to upload file and click button „restore“
+* Continue
+* Restore as a new course, Select a category, Continue
+* Next
+* Change Course name and Course short name, Next
+* Perform restre, Next
 ## Configure course ##
 * Zahnrad oben rechts > Einstellungen bearbeiten
   * Darstellung > Design festlegen: moocster
