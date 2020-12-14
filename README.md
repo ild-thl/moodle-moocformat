@@ -4,13 +4,15 @@ Documentation of everything we need to set up a moodle as MOOC plattform
 * Moodle desgin
 * Moodle configuration
 * Course templates
-## Moodle Plugins ##
+## Moodle plugins ##
+We need the following plugins to be installed in our Moodle
 * block_oc_course_footer
 * block_oc_mooc_nav
 * block_online_users_map
 * format_fntabs
 * theme_moocster
 * enrol_autoenrol
+* mod_hvp
 * local_ildhvp
 ## Moodle design ##
 TODO
