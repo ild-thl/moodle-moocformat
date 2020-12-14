@@ -17,4 +17,5 @@ TODO
 ## Moodle configuration ##
 TODO
 ## Course templates ##
-TODO
+To create a new MOOC from a course template use this step by step turorial [How to create a new MOOC](https://github.com/ild-thl/moodle-moocformat/blob/main/HowTo_create_a_new_MOOC.md).  
+Use this Moodle course backup as template: [TemplateNewMOOC.mbz](https://github.com/ild-thl/moodle-moocformat/blob/main/TemplateNewMOOC.mbz).
