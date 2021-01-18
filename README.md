@@ -13,7 +13,7 @@ We need the following plugins to be installed in our Moodle
 * theme_moocster
 * enrol_autoenrol
 * mod_hvp
-* local_ildhvp
+* local_ildhvp (https://github.com/oncampus/moodle_local_ildhvp)
 ## Moodle design ##
 TODO
 ## Moodle configuration ##
