@@ -17,7 +17,7 @@ We need the following plugins to be installed in our Moodle
 ## Moodle design ##
 TODO
 ## Moodle configuration ##
-* Kursabschnitte (Sections) in Navigation ausblenden
+* Hide course sections in navigation
   * mymoodle.de/admin/search.php?query=linkcoursesections
 ## Course templates ##
 To create a new MOOC from a course template use this step by step turorial [How to create a new MOOC](https://github.com/ild-thl/moodle-moocformat/blob/main/HowTo_create_a_new_MOOC.md).  
