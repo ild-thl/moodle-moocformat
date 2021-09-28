@@ -6,6 +6,8 @@ Documentation of everything we need to set up a moodle as MOOC plattform
 * Course templates
 ## Moodle plugins ##
 We need the following plugins to be installed in our Moodle
+* block_ild_chosencourses
+* block_ildmetaselect
 * block_oc_course_footer
 * block_oc_mooc_nav
 * block_online_users_map
@@ -14,6 +16,7 @@ We need the following plugins to be installed in our Moodle
 * enrol_autoenrol
 * mod_hvp
 * local_ildhvp (https://github.com/oncampus/moodle_local_ildhvp)
+* local_ildmeta
 ## Moodle design ##
 TODO
 ## Moodle configuration ##
