@@ -28,11 +28,11 @@
   * Save and display
 * Gearwheel in the upper right > Turn editing on (if not done already)
 * Gearwheel in the right near "New MOOC" > Configure New MOOC block
-  * Blocktitle: used as header for the course (MOOCourse name)
+  * Blocktitle: used as header for the course (Course name)
   * \*(get id from the url by following the link in section 0)
-  * ID\* of the general discussion forum
   * ID\* of the textpage with the social media content
-  * ID\* of the directory with the chapter images
+  * ID\* of the general discussion forum
+  * ID\* of the directory with the chapter images (if link is missing: one less than general discussion forum)
   * Chapter options (example given):
     * `name=Kapitel 1;lections=3;enabled=true;img=digi1.jpg`
     * `name=Kapitel 2;lections=5;enabled=false;img=digin.jpg`
