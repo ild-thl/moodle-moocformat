@@ -6,12 +6,14 @@ Documentation of everything we need to set up a moodle as MOOC plattform
 * Course templates
 ## Moodle plugins ##
 We need the following plugins to be installed in our Moodle
+(for file drag'n drop installation follow the path in Moodles backend in front of _ )
 * blocks_ild_chosencourses
 * blocks_ildmetaselect
 * blocks_oc_course_footer
 * blocks_oc_mooc_nav
 * blocks_online_users_map
-* course_format_fntabs
+* format_fntabs (in Moodle backend in course/format)
+  * use the already modified fntabs plugIn from futurlearnlab 
 * theme_moocster
 * enrol_autoenrol
 * mod_hvp
