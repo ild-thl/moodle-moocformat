@@ -13,7 +13,7 @@ We need the following plugins to be installed in our Moodle
 * blocks_oc_mooc_nav
 * blocks_online_users_map
 * format_fntabs (in Moodle backend in course/format)
-  * use the already modified fntabs plugIn from futurlearnlab 
+  * use the modified fntabs plugin from futurlearnlab 
 * theme_moocster
 * enrol_autoenrol
 * mod_hvp
